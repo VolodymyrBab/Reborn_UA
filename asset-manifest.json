@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reborn_UA/static/css/main.b87514ff.css",
+    "main.js": "/Reborn_UA/static/js/main.5a9bc161.js",
+    "index.html": "/Reborn_UA/index.html",
+    "main.b87514ff.css.map": "/Reborn_UA/static/css/main.b87514ff.css.map",
+    "main.5a9bc161.js.map": "/Reborn_UA/static/js/main.5a9bc161.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87514ff.css",
+    "static/js/main.5a9bc161.js"
+  ]
+}
