@@ -34,7 +34,7 @@ function App() {
             </div>
 
             <div className="Advertisment">
-              <a className="addAdvertisment" href="#">
+              <a className="addAdvertisment" href=" ">
                 Додати оголошення
               </a>
             </div>
@@ -52,35 +52,35 @@ function App() {
             <div className="categoryContainer">
               <div className="categoryContainerUpper">
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Меблі
                   </a>
                 </div>
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Одяг
                   </a>
                 </div>
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Техніка
                   </a>
                 </div>
               </div>
               <div className="categoryContainerLower">
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Все для дому
                   </a>
                 </div>
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Дитячий <br />
                     світ
                   </a>
                 </div>
                 <div className="cardsCategories">
-                  <a className="card" href="#">
+                  <a className="card" href=" ">
                     Домашні <br />
                     улюбленці
                   </a>
@@ -125,49 +125,7 @@ function App() {
               <div className="row">
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -188,7 +146,7 @@ function App() {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -197,7 +155,49 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -211,7 +211,7 @@ function App() {
               <div className="row">
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -220,7 +220,7 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -232,7 +232,7 @@ function App() {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -241,7 +241,7 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -253,7 +253,7 @@ function App() {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -262,7 +262,7 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -274,7 +274,7 @@ function App() {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -283,93 +283,7 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="row">
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -383,7 +297,7 @@ function App() {
               <div className="row">
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="#" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
                         <img src="" className="newAdvsImg"></img>
                       </div>
@@ -392,7 +306,93 @@ function App() {
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="#" className="geoItem">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon}></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -475,44 +475,44 @@ function App() {
         <div className="container-fluid">
           <div className="footerItems">
             <div className="firstCol">
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Меблі
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Текстиль
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Все для для дому
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Дитячий світ
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Домашні улюбленці
               </a>
             </div>
             <div className="firstCol">
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Улюблене
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Мій кабінет
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Про нас
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Умови використання
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Політика конфіденційності
               </a>
             </div>
             <div className="firstCol">
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Допомога
               </a>
-              <a href="#" className="footerItem">
+              <a href=" " className="footerItem">
                 Зворотній зв’язок
               </a>
             </div>
