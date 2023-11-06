@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Reborn_UA/static/css/main.b87514ff.css",
-    "main.js": "/Reborn_UA/static/js/main.5a9bc161.js",
+    "main.css": "/Reborn_UA/static/css/main.7e6226a4.css",
+    "main.js": "/Reborn_UA/static/js/main.d5d3f41c.js",
+    "static/js/787.3f70efe1.chunk.js": "/Reborn_UA/static/js/787.3f70efe1.chunk.js",
     "index.html": "/Reborn_UA/index.html",
-    "main.b87514ff.css.map": "/Reborn_UA/static/css/main.b87514ff.css.map",
-    "main.5a9bc161.js.map": "/Reborn_UA/static/js/main.5a9bc161.js.map"
+    "main.7e6226a4.css.map": "/Reborn_UA/static/css/main.7e6226a4.css.map",
+    "main.d5d3f41c.js.map": "/Reborn_UA/static/js/main.d5d3f41c.js.map",
+    "787.3f70efe1.chunk.js.map": "/Reborn_UA/static/js/787.3f70efe1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b87514ff.css",
-    "static/js/main.5a9bc161.js"
+    "static/css/main.7e6226a4.css",
+    "static/js/main.d5d3f41c.js"
   ]
 }
