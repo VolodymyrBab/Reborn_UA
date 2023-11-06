@@ -15,7 +15,7 @@ export const App = () => {
         <div className="container-fluid">
           <div className="header-line">
             <div className="header-logo">
-              <img src="" alt="logo" />
+              <img src=" " alt="logo" />
             </div>
 
             <div className="searchContainer">
@@ -129,7 +129,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -150,7 +150,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -171,7 +171,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -192,7 +192,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -215,7 +215,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -236,7 +236,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -257,7 +257,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -278,7 +278,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -301,7 +301,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -322,7 +322,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -343,7 +343,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -364,7 +364,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -387,7 +387,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -406,16 +406,16 @@ export const App = () => {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -427,16 +427,16 @@ export const App = () => {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
                           Дитяче ліжечко 1 - 3 роки
                         </h5>
                         <div className="newAdvsFooterItems">
-                          <a href="" className="geoItem">
+                          <a href=" " className="geoItem">
                             <img src={GeosIcon}></img>
                             Київ, Борщагівка
                           </a>
@@ -448,9 +448,9 @@ export const App = () => {
                 </div>
                 <div className="col">
                   <div className="newAdvsItem">
-                    <a href="" className="neAdvsLink">
+                    <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src="" className="newAdvsImg"></img>
+                        <img src=" " className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
