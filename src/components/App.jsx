@@ -129,7 +129,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -137,7 +137,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -150,7 +150,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -158,7 +158,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -171,7 +171,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -179,7 +179,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt="" ></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -192,7 +192,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -200,93 +200,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="row">
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href=" " className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href=" " className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href=" " className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
-                            Київ, Борщагівка
-                          </a>
-                          <p className="newAdvsTime"> сьогодні 7:39</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-                <div className="col">
-                  <div className="newAdvsItem">
-                    <a href=" " className="neAdvsLink">
-                      <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
-                      </div>
-                      <div className="newAdvsFooter">
-                        <h5 className="newAdvsFooterTitle">
-                          Дитяче ліжечко 1 - 3 роки
-                        </h5>
-                        <div className="newAdvsFooterItems">
-                          <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -301,7 +215,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -309,7 +223,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -322,7 +236,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -330,7 +244,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -343,7 +257,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -351,7 +265,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -364,7 +278,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -372,7 +286,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -387,7 +301,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -395,7 +309,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -408,7 +322,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -416,7 +330,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -429,7 +343,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -437,7 +351,7 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
@@ -450,7 +364,7 @@ export const App = () => {
                   <div className="newAdvsItem">
                     <a href=" " className="neAdvsLink">
                       <div className="newAdvsImgContainer">
-                        <img src=" " className="newAdvsImg"></img>
+                        <img src=" " alt="" className="newAdvsImg"></img>
                       </div>
                       <div className="newAdvsFooter">
                         <h5 className="newAdvsFooterTitle">
@@ -458,7 +372,93 @@ export const App = () => {
                         </h5>
                         <div className="newAdvsFooterItems">
                           <a href=" " className="geoItem">
-                            <img src={GeosIcon}></img>
+                            <img src={GeosIcon} alt=""></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src=" " alt="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon} alt=""></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src=" " alt="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon} alt=""></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src=" " alt="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon} alt=""></img>
+                            Київ, Борщагівка
+                          </a>
+                          <p className="newAdvsTime"> сьогодні 7:39</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+                <div className="col">
+                  <div className="newAdvsItem">
+                    <a href=" " className="neAdvsLink">
+                      <div className="newAdvsImgContainer">
+                        <img src=" " alt="" className="newAdvsImg"></img>
+                      </div>
+                      <div className="newAdvsFooter">
+                        <h5 className="newAdvsFooterTitle">
+                          Дитяче ліжечко 1 - 3 роки
+                        </h5>
+                        <div className="newAdvsFooterItems">
+                          <a href=" " className="geoItem">
+                            <img src={GeosIcon} alt=""></img>
                             Київ, Борщагівка
                           </a>
                           <p className="newAdvsTime"> сьогодні 7:39</p>
