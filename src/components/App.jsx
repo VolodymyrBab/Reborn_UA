@@ -6,7 +6,7 @@ import ProfileButton from './ProfileButton';
 // import ProfileIcon from '..//images/ProfileIcon.png';
 import GeosIcon from '..//images/GeosIcon.png';
 
-function App() {
+export const App = () => {
   return (
     <div className="container-fluid">
       <div className="header">
@@ -523,4 +523,4 @@ function App() {
   );
 }
 
-export default App;
+
